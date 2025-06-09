@@ -21,7 +21,7 @@ export default function ComingSoonPage() {
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white via-blue-100 to-white">
               The new and improved Wired Wits is just days away!
             </h1>
-            <Countdown targetDate="2025-06-01T00:00:00" />
+            <Countdown targetDate="2025-06-10T18:00:00" />
           </div>
 
           <div className="space-y-6 md:space-y-8 backdrop-blur-sm bg-white/5 rounded-2xl p-4 sm:p-6 md:p-8 border border-white/10">
